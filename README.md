@@ -1,10 +1,8 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/71655666?v=4"  />
-</div>
+<img align="left" height="150" src="https://avatars.githubusercontent.com/u/71655666?v=4"  />
 
 ###
 
-<div align="center">
+<div align="right">
   <a href="https://www.linkedin.com/in/irshaduddin-chowdhury/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -18,15 +16,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kaisar12012000.kaisar12012000&"  />
-</div>
+<h1 align="right">Hey there 👋</h1>
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
-
-###
+<br clear="both">
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -91,5 +85,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kaisar12012000&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/kaisar12012000/kaisar12012000/output/snake.svg" alt="Snake animation" />
 
 ###
