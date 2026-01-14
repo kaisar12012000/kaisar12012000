@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Irshaduddin from Nagpur, Maharashtra, India<br><br>- 🔭 I’m working as Lead developer at HappilyEver<br>- ⚡ In my free time I like to look for new things to learn and grow.</p>
+<p align="left">I'm Irshaduddin from Nagpur, Maharashtra, India<br><br>- 🔭 I’m working as Software Development Engineer at Devdolphins<br>- ⚡ In my free time I like to look for new things to learn and grow.</p>
 
 ###
 
